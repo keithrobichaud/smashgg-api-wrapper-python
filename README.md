@@ -1,0 +1,1 @@
+# smashgg-api-wrapper-python
