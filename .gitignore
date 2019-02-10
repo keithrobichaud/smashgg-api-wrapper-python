@@ -1,3 +1,4 @@
-tests/__pycache__/*
-smashggAPI/__pycache__/*
+smashggAPI/__pycache__
 .pytest_cache
+tests/__pycache__
+tests/pytest_cache
