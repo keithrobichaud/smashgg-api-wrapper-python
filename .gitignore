@@ -1,3 +1,7 @@
+build/
+dist/
+smashggAPI.egg-info/
+
 smashggAPI/__pycache__
 .pytest_cache
 tests/__pycache__
