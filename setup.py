@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="smashggAPI",
-    version="0.0.1",
+    version="0.0.2",
     author="Keith Robichaud",
     author_email="keith@smash.gg",
     description="A wrapper for smash.gg's GraphQL API",
