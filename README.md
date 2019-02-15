@@ -8,7 +8,7 @@
   ```
   export SMASHGG_API_KEY='your api key here'
   ```
-3. 
+3. Use as such in your python code:
 ```
 from smashggAPI import client
 
